@@ -311,13 +311,13 @@ nav{
   background-position: center;
 }
 .f-slide-1{
-  background-image: url(./Assets/images/Slider_01.jpg);
+  background-image: url(./assets/images/Slider_01.jpg);
 }
 .f-slide-2{
-  background-image: url(./Assets/images/Slider_02.jpg);
+  background-image: url(./assets/images/Slider_02.jpg);
 }
 .f-slide-3{
-  background-image: url(./Assets/images/Slider_03.jpg);
+  background-image: url(./assets/images/Slider_03.jpg);
 }
 .slider-text-container{
   width:80%;
